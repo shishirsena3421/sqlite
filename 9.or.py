@@ -13,14 +13,5 @@ for i in items:
 	print(i)
 
 
-
-
-
-
-
-
-
-
-
 conn.commit()
 conn.close()
