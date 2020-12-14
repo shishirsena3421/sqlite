@@ -1,0 +1,8 @@
+# To install
+sudo apt-get install sqlitebrowser
+
+
+
+
+#To run type in terminal
+sqlitebrowser
